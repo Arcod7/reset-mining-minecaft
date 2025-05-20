@@ -17,11 +17,9 @@ see [requirements.txt](requirements.txt) for the full list of requirements
 - Linux server
 - Python libraries:
     - `os`
-    - `shutil`
-    - `subprocess`
-    - `json`
-    - `requests`
-    - `discord_webhook`
+    - `discord`
+    - `nbtlib`
+    - `dotenv`
 
 ## Usage
 
